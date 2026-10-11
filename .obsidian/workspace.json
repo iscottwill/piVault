@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E281_SysD.md",
+                "file": "E230_OOPr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "E281_SysD"
+              "title": "E230_OOPr"
             }
           }
         ],
@@ -219,14 +219,18 @@
   },
   "active": "4fab01bb8c8e84e2",
   "lastOpenFiles": [
-    "Untitled.md",
+    "E230_OOPr_1.2_API.md",
+    "E230_OOPr_1.1_ProceduralVsOOP.md",
+    "E230_OOPr_6.5.1_DefaultConstructor.md",
+    "E230_OOPr.md",
+    "REFERENCE_NOTES_PLAN.md",
     "E281_SysD.md",
+    "Untitled.md",
     "Subjects.md",
     "E280_PLCs.md",
     "Untitled 1.md",
     "E260_ARMM.md",
     "E250_ACom.md",
-    "E230_OOPr.md",
     "E242_AElc.md"
   ]
 }
